@@ -86,7 +86,7 @@ Want to improve or add new resources?
 
 **Mohammed Shibili**  
 🌍 Data Science & AI Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammedshibili001) | [GitHub](https://github.com/Muhammedshibili688) | [E-mail](muhammedshibili688@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammedshibili001) | [GitHub](https://github.com/Muhammedshibili688)
 
 ---
 
