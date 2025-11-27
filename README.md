@@ -84,7 +84,7 @@ Want to improve or add new resources?
 
 ## 🧑‍💻 Created & Maintained By
 
-**Mohammed Shibili**  
+**Muhammed Shibili**  
 🌍 Data Science & AI Enthusiast  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammedshibili001) | [GitHub](https://github.com/Muhammedshibili688)
 
